@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O Practice 1 é um agregador de Dev Links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://eglthales.github.io/Practice-1-Dev-Links/)
 
